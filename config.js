@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Proton Mail',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Tidal',
+			icon: 'music',
+			link: 'https://tidal.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Cloudflare',
+			icon: 'cloud',
+			link: 'https://dash.cloudflare.com',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Server Panel',
+			icon: 'server',
+			link: 'https://pufferpanel.prkrln.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Router',
+			icon: 'router',
+			link: 'https://192.168.0.200:8043',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'pc-case',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Framework',
+					link: 'https://frame.work',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'PC Part Picker',
+					link: 'https://pcpartpicker.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Printables',
+					link: 'https://printables.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Maker World',
+					link: 'https://makerworld.com',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'library',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Dashboard',
+					link: 'https://myapps.microsoft.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Canvas',
+					link: 'https://myfire.seu.edu/d2l/home/8104',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Portal',
+					link: 'https://jics.seu.edu/ICS/Academics/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Email',
+					link: 'https://mail.google.com/mail/u/1/#inbox',
 				},
 			],
 		},
